@@ -22,8 +22,8 @@ global.botname = "Cemprul" //namabot kalian
 global.ownername= "DS=defan" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
-global.github = "https://zeeone-ofc.github.io/" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
+global.github = "https://github.com/defan312/" //bebas
+global.email = "defansugiarto5@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.ownernomer = "6282135905896" // nomor wa kalian
 global.ownernomerr = "+6282135905896" //nmr wa kalian
