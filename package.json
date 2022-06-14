@@ -9,7 +9,7 @@
   "license": "MIT",
   "scripts": {
     "start": "node zeeone.js"
-   },
+  },
   "keywords": [
     "termux",
     "whatsapp",
@@ -20,11 +20,9 @@
     "bot"
   ],
   "author": "ZeeoneOfc",
-  "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
     "@adiwajshing/keyed-db": "^0.2.4",
-    "awesome-phonenumber": "^2.64.0",
     "@vitalets/google-translate-api": "^7.0.0",
     "amethyste-api": "^1.1.5",
     "awesome-phonenumber": "^2.64.0",
@@ -43,7 +41,7 @@
     "got": "^11.8.3",
     "human-readable": "^0.2.1",
     "hxz-api": "^1.0.1",
-    "instatouch":"^2.3.14",
+    "instatouch": "^2.3.14",
     "jimp": "^0.16.1",
     "jsdom": "^18.1.1",
     "moment-timezone": "^0.5.34",
@@ -52,6 +50,7 @@
     "os": "^0.1.2",
     "path": "^0.12.7",
     "perf_hooks": "0.0.1",
+    "performance-now": "^2.1.0",
     "pino": "^7.2.0",
     "qrcode-terminal": "^0.12.0",
     "request": "^2.88.2",
